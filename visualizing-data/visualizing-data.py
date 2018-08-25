@@ -1,9 +1,9 @@
-# import pandas as pd
+# Import pandas as pd
 import pandas as pd
 # Import matplotlib.pyplot
 import matplotlib.pyplot as plt
 
-# read csv file
+# Read csv file
 g1800s = pd.read_csv('../datasets/gapminder.csv')
 
 # Create the scatter plot
